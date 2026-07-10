@@ -3,7 +3,7 @@ int main(void){
     int number;
     printf("Enter the number: ");
     scanf("%d",&number);
-    if (number>=0){
+    if (number%2==0){
         printf("EVEN");
     }
     else{
