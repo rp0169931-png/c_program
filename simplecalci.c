@@ -1,3 +1,5 @@
+// Program to perform basic arithmetic operations (+, -, *, /) on two numbers//
+
 #include <stdio.h>
 
 int main(void) {

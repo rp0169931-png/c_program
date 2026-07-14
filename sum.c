@@ -1,3 +1,4 @@
+// Program to calculate the sum of two numbers//
 # include <stdio.h>
 int main(void){
     int a,b,sum;

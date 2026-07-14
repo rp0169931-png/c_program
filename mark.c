@@ -1,3 +1,5 @@
+// Program to calculate the grade of a student based on marks obtained in 5 subjects//
+
 # include<stdio.h>
 int main(void){
     float total=0 ,mark, persentage;
